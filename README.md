@@ -37,7 +37,8 @@
 ![JENKINS](https://img.shields.io/badge/-Jenkins-d33833?style=flat&logo=Jenkins&logoColor=white)&nbsp;
 
 ### Other Languages I know
-<img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white">
+![Java](http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white)&nbsp;
 
 ---
 

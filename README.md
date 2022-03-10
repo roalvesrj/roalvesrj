@@ -6,7 +6,7 @@
  
  <a href="https://www.buymeacoffee.com/roalvesrj"> <img width="160" src="https://img.shields.io/badge/-%E2%98%95%20Buy%20me%20a%20coffee-ffac00?style=flat"> </a>
  
-![Profile views](https://gpvc.arturio.dev/roalvesrj)  <img src="https://img.shields.io/github/followers/Souravdey777?label=Follow&color=64acff" style=" float:left, margin-right:10px" />
+![Profile views](https://gpvc.arturio.dev/roalvesrj)  <img src="https://img.shields.io/github/followers/roalvesrj?label=Follow&color=64acff" style=" float:left, margin-right:10px" />
 
 ---
 

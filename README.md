@@ -1,4 +1,5 @@
 ### Hey there! Rômulo here 👋
+(pronounced HOH-moo-loo AHL-viz)
 
 ---
 
